@@ -13,6 +13,7 @@ python manage.py runserver
 ```
 
 ## Make / Apply Migrations
+Use these commands to handle changes to any database `Model` in some particular app.
 ```cmd
 cd pollster
 python manage.py makemigrations [INSERT APP NAME w/o brackets]
