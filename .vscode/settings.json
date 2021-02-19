@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "C:\\Users\\RED\\.virtualenvs\\django-polling-app-wPPv_DpL\\Scripts\\python.exe",
+    "emmet.includeLanguages": {
+        "django-html": "html",
+    }
+}
